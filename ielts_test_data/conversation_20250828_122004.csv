@@ -1,0 +1,7 @@
+Timestamp,Phase,Speaker,Message
+12:18:09,initialization,system,Test session started
+12:18:09,not_started,candidate,[Speaking...]
+12:18:11,part1,system,Part 1 started
+12:18:36,part2,system,Part 2 started - preparation time
+12:19:36,part2,system,Part 2 - speaking time
+12:20:04,completion,system,Test session ended

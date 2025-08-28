@@ -1,0 +1,43 @@
+{
+  "test_date": "2025-08-28 12:20:04",
+  "duration": "0:01:57.465666",
+  "part2_topic": "",
+  "conversation": [
+    {
+      "timestamp": "12:18:09",
+      "speaker": "system",
+      "message": "Test session started",
+      "phase": "initialization"
+    },
+    {
+      "timestamp": "12:18:09",
+      "speaker": "candidate",
+      "message": "[Speaking...]",
+      "phase": "not_started"
+    },
+    {
+      "timestamp": "12:18:11",
+      "speaker": "system",
+      "message": "Part 1 started",
+      "phase": "part1"
+    },
+    {
+      "timestamp": "12:18:36",
+      "speaker": "system",
+      "message": "Part 2 started - preparation time",
+      "phase": "part2"
+    },
+    {
+      "timestamp": "12:19:36",
+      "speaker": "system",
+      "message": "Part 2 - speaking time",
+      "phase": "part2"
+    },
+    {
+      "timestamp": "12:20:04",
+      "speaker": "system",
+      "message": "Test session ended",
+      "phase": "completion"
+    }
+  ]
+}
